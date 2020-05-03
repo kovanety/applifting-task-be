@@ -1,6 +1,6 @@
-This is the server part of a project created as an interview challenge for (Applifting)[https://applifting.cz/]
+This is the server part of a project created as an interview challenge for [Applifting](https://applifting.cz/)
 
-The main motivation behind creating custom server was to enable the use of sockets.
+The main motivation behind creating custom server was to enable the use of [socket.io](https://socket.io/).
 
 ## Running the project
 
