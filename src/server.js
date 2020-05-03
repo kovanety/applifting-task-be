@@ -9,7 +9,7 @@ import { connect } from './utils/db'
 import { clickRouter } from './routes/click'
 import { leaderboardRouter } from './routes/leaderboard'
 
-const PORT = 3030
+const PORT = process.env.PORT || 3030
 const app = express()
 const server = createServer(app)
 
